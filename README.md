@@ -16,4 +16,10 @@ I was able to generate a working model for Degree Day Heat Unit calculation for 
 
 "april14assign1.py" and "april14assign2.py": These are the two Python scripts used to reproduce a figure from (Jones et al. 2019) for Homework #3 in METR 3334. Both python files are variations of each other to reproduce similar figures. The goal was to have this in one file and create subplots but that proved to be more challenging, so two separate files were made.
 
+"radaranalysisNW.py" is my broken code attempting to do radar analysis for Homework #3. I was unable to get the necessary packages to download and code was not followed through with.
+
+"ReadGCHNstationdata.py" was a piece of code given by Dr. Pegion while learning Python. There were other pieces of code provided but I felt I understood this one the best.
+
+"reproducedfigure.png" and "reproducedfigure2.png" highlight the two figures produced from the working Homework #3 Code.
+
 Thank you for viewing!
